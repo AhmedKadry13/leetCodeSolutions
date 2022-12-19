@@ -13,11 +13,11 @@ import java.util.Arrays;
  */
 public class TwoSumsSolutionTest {
 
-    private Solution solution;
+    private TwoSumsSolution solution;
 
     @Before
     public void init() {
-        this.solution = new Solution();
+        this.solution = new TwoSumsSolution();
     }
 
     @Test

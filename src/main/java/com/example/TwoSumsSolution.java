@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.ArrayList;
 
-public class Solution {
+public class TwoSumsSolution {
 
     public int[] twoSum(int[] nums, int target) {
 
