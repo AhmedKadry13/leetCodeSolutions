@@ -1,8 +1,8 @@
-package com.example;
+package com.example.twoSums;
 
 import java.util.ArrayList;
 
-public class TwoSumsSolution {
+public class Solution {
 
     public int[] twoSum(int[] nums, int target) {
 

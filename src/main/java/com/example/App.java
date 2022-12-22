@@ -1,6 +1,6 @@
 package com.example;
 
-
+import com.example.twoSums.Solution;
 
 /**
  * Testing concepts
@@ -19,7 +19,7 @@ public class App
         int[] in = {2 ,7, 11, 15};
         int target = 9;
 
-        TwoSumsSolution sol = new TwoSumsSolution();
+        Solution sol = new Solution();
 
         int[] res = sol.twoSum(in, target);
 

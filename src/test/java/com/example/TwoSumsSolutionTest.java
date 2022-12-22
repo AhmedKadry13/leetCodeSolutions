@@ -2,6 +2,7 @@ package com.example;
 
 import static org.junit.Assert.assertTrue;
 
+import com.example.twoSums.Solution;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -13,11 +14,11 @@ import java.util.Arrays;
  */
 public class TwoSumsSolutionTest {
 
-    private TwoSumsSolution solution;
+    private Solution solution;
 
     @Before
     public void init() {
-        this.solution = new TwoSumsSolution();
+        this.solution = new Solution();
     }
 
     @Test
